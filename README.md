@@ -1,65 +1,36 @@
-# Dave-s-Portfolio
+# Data Portfolio – SQL & Tableau Projects
 
-#  Dave Williams | Data Analyst & Data enthusiats 
-
-Welcome! I'm Dave—a Data Analyst blending technical rigor with creative storytelling. This portfolio showcases my journey through SQL, Tableau, and automotive customization, with annotated visuals and transformation cards.
-
----
-
-##  What You'll Find Here
-
-| Module | Description |
-|--------|-------------|
-| `sql-projects/` | Advanced SQL queries with visual annotations and teaching moments |
-| `dashboards/` | Tableau dashboards with before/after insights |
-
-
+Welcome! I'm **Dave Williams**, a Data Analyst & Visual Storyteller specialising in SQL troubleshooting, Tableau dashboards, and annotated case studies.  
+This portfolio showcases my ability to **clean data, build insights, and tell stories visually**.
 
 ---
 
-## 🧠 Skills & Tools
+## 📂 Project Index
 
-- SQL
-- Tableau 
-- R Programming 
-- Excel
-- Data visualisation
-- Sports analytics
-
----
-
-## Featured projects
-
-###  SQL Projects
-Data cleaning | Statistics | Exploratory Data Analysis 
-- Support Ticket Analysis
-- Grocery Store Sales Analysis
-- Hotel Operations Analysis 
-### Tableau Projects
-Analysing data in Tableau | dashboards |Story
-- Customer churn case study
-- Beauty Sales Performance Analysis 
-- Marketing Analysis 
-### End-to-end projects 
-- Customer churn case study using Tableau
-- Support Ticket Analysis
-  -Data cleaning and analysis in SQL,
-  data visualisation in Tableau 
-- Market Data Analysis 
-
-
-
+| Project | Tools | Highlights |
+|---------|-------|------------|
+| [Support Ticket Analysis](sql-projects/support-ticket-analysis) | SQL, Tableau | Data cleaning, joins, aggregation, dashboard |
+| [Hotel Operations Analysis](sql-projects/hotel-operations-analysis) | SQL | Filtering, joins, operational insights |
+| [Grocery Sales Analysis](sql-projects/grocery-sales-analysis) | SQL | Cleaning, filtering, aggregation |
+| [Motorcycle Sales Analysis](sql-projects/motorcycle-sales-analysis) | SQL | Net revenue calculation |
+| [Fan Engagement Case Study](sql-projects/fan-engagement-case-study) | SQL | Joins, filtering, aggregation |
+| [Customer Churn Analysis](tableau-projects/customer-churn-analysis) | Tableau | Storytelling dashboard with churn drivers |
+| [Support Ticket Dashboard](tableau-projects/support-ticket-dashboard) | Tableau | Interactive dashboard |
+| [Beauty Industry Sales Analysis](tableau-projects/beauty-industry-sales-analysis) | Tableau | Sales trends visualization |
 
 ---
 
-##  Connect with Me
-
-- [LinkedIn](www.linkedin.com/in/dave-williams-209a23252) 
-- GitHub: [@yourusername](https://github.com/yourusername)
+## 🛠️ Skills Highlight
+- **SQL:** Data cleaning, joins, filtering, aggregation, revenue calculations  
+- **Tableau:** Dashboards, storytelling, interactive actions  
+- **Documentation:** Modular case studies, annotated visuals, teaching takeaways  
 
 ---
 
-> 💡 *This portfolio is a living document—updated as I learn, build, and refine. Feedback welcome!*
-```
+## 🔗 Links
+- [Tableau Public Profile](https://public.tableau.com/) 
+- [LinkedIn](www.linkedin.com/in/dave-williams-209a23252)   
+
+---
 
 
