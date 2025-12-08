@@ -17,6 +17,7 @@ This portfolio showcases my ability to **clean data, build insights, and tell st
 | [Customer Churn Analysis](tableau-projects/customer-churn-analysis) | Tableau | Storytelling dashboard with churn drivers |
 | [Support Ticket Dashboard](tableau-projects/support-ticket-dashboard) | Tableau | Interactive dashboard |
 | [Beauty Industry Sales Analysis](tableau-projects/beauty-industry-sales-analysis) | Tableau | Sales trends visualization |
+| [IPL Fan Survey Analysis](r-programming-projects/ipl-fan-survey-analysis) |R Programming | Data visualisation, Data wrangling, ggplot2 
 
 ---
 
