@@ -41,26 +41,18 @@ I focus on turning messy data into clear, actionable visual stories. Projects in
 ---
 
 ## Project index
-Each project folder contains: a short case study (README), SQL scripts or workbook files, and exported screenshots / gifs.
-
-- Support Ticket Analysis — sql-projects/support-ticket-analysis  
-  Tools: SQL, Tableau — Highlights: data cleaning, joins, aggregation, dashboard
-- Hotel Operations Analysis — sql-projects/hotel-operations-analysis  
-  Tools: SQL — Highlights: filtering, joins, operational insights
-- Grocery Sales Analysis — sql-projects/grocery-sales-analysis  
-  Tools: SQL — Highlights: cleaning, filtering, aggregation
-- Motorcycle Sales Analysis — sql-projects/motorcycle-sales-analysis  
-  Tools: SQL — Highlights: net revenue calculation
-- Fan Engagement Case Study — sql-projects/fan-engagement-case-study  
-  Tools: SQL — Highlights: joins, filtering, aggregation
-- Customer Churn Analysis — tableau-projects/customer-churn-analysis  
-  Tools: Tableau — Highlights: storytelling dashboard with churn drivers
-- Support Ticket Dashboard — tableau-projects/support-ticket-dashboard  
-  Tools: Tableau — Highlights: interactive dashboard
-- Beauty Industry Sales Analysis — tableau-projects/beauty-industry-sales-analysis  
-  Tools: Tableau — Highlights: sales trends visualization
-- IPL Fan Survey Analysis — r-programming-projects/ipl-fan-survey-analysis  
-  Tools: R — Highlights: data wrangling, ggplot2 visualisations
+Each project folder contains: a short case study (README), SQL scripts or workbook files, and exported screenshots/gifs.
+| Project | Tools | Highlights |
+|---------|-------|------------|
+| [Support Ticket Analysis](sql-projects/support-ticket-analysis) | SQL, Tableau | Data cleaning, joins, aggregation, dashboard |
+| [Hotel Operations Analysis](sql-projects/hotel-operations-analysis) | SQL | Filtering, joins, operational insights |
+| [Grocery Sales Analysis](sql-projects/grocery-sales-analysis) | SQL | Cleaning, filtering, aggregation |
+| [Motorcycle Sales Analysis](sql-projects/motorcycle-sales-analysis) | SQL | Net revenue calculation |
+| [Fan Engagement Case Study](sql-projects/fan-engagement-case-study) | SQL | Joins, filtering, aggregation |
+| [Customer Churn Analysis](tableau-projects/customer-churn-analysis) | Tableau | Storytelling dashboard with churn drivers |
+| [Support Ticket Dashboard](tableau-projects/support-ticket-dashboard) | Tableau | Interactive dashboard |
+| [Beauty Industry Sales Analysis](tableau-projects/beauty-industry-sales-analysis) | Tableau | Sales trends visualization |
+| [IPL Survey Data Analysis](r-programming/ipl-survey-data-analysis) |R programming | Data visualisation,data mining,data wrangling |
 
 ---
 
