@@ -1,32 +1,41 @@
-# Beauty Industry Sales Analysis (Tableau)
+# Beauty Industry Sales Analysis
 
-## 📌 Context
-Customer churn is a critical challenge for subscription businesses. This project uses Tableau to visualize churn drivers and build a storytelling dashboard for decision-makers.
+Short description: Tableau dashboard visualizing sales trends, channel performance, and product-level insights in the beauty industry.
 
-## 🛠️ Techniques Used
-- Tableau Dashboard: Interactive filters, KPIs, churn segmentation
-- Tableau Story: Narrative flow showing churn drivers and retention strategies
+Tools: Tableau
 
-## 📊 Process
-1. **Data Preparation:** Cleaned customer records and standardized churn labels  
-2. **Dashboard Design:** Built KPIs (churn %, retention rate, revenue impact)  
-3. **Storytelling Flow:** Created a Tableau Story to guide stakeholders through churn drivers  
+Dataset(s): sales transactions, channel metadata, product catalog
 
-## 📈 Results
-- Identified top churn drivers: contract length and customer support interactions  
-- Highlighted retention opportunities: loyalty programs and proactive support outreach  
-- Delivered a dashboard for executives to monitor churn in real time  
+How to open:
+- Tableau: open the workbook in tableau-projects/beauty-industry-sales-analysis/ (TWBX/TWB) or view on Tableau Public if published.
 
----
+Files in this folder:
+- workbook.twbx / workbook.twb
+- exports/ (PNG/GIF previews)
+- assets/beauty-industry-sales-analysis-hero.png
 
-## 📷 Visuals
-![Dashboard Overview](images/dashboard_overview.png)  
-*Interactive dashboard showing churn KPIs*
+Key steps performed:
+- Data cleaning: harmonize SKUs and product categories
+- Joins/aggregations: combine sales with channel metadata and promotions
+- Calculations: category share, promotional lift, channel conversion
 
-![Churn Drivers](images/churn_drivers.png)  
-*Story point highlighting contract length impact on churn*
+Key SQL snippets / pseudo-code:
+```
+-- Example: promotional lift calculation
+SELECT promo_id, (promo_sales - baseline_sales) / baseline_sales AS lift
+FROM promo_summary;
+```
 
----
+Key visuals:
+- Image: assets/beauty-industry-sales-analysis-hero.png — hero image showing sales trend and channel breakdown
 
-## 🔗 Links
-- Tableau Public: [View Dashboard](https://public.tableau.com/) *(insert your link)*
+Takeaways:
+- Optimize channel allocation based on conversion and margin
+- Identify high-lift promotions for replication
+- Use product-level insights to guide assortment decisions
+
+Tableau Public link (if published): https://public.tableau.com/views/<your-viz-slug>
+
+Note: placeholder assets have been committed to assets/. I will optimize and add code snippet images once you confirm upload; for now this README and the SVG placeholders provide structure and preview visibility.
+
+License: MIT

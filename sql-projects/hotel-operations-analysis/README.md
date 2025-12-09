@@ -1,45 +1,44 @@
-# Hotel Operations Analysis (SQL)
+# Hotel Operations Analysis
 
-## 📌 Context
-Hotels generate large volumes of operational data — bookings, check-ins, room usage, and service requests. This project focuses on cleaning and analyzing hotel operations data to uncover inefficiencies and highlight opportunities for improved resource allocation.
+Short description: Analyze operational metrics (occupancy, average daily rate, cancellations) to surface operational opportunities.
 
-## 🛠️ Techniques Used
-- **Data Cleaning:** Removed duplicate booking records, standardized room categories
-- **Joins:** Combined booking data with customer and room tables
-- **Filtering:** Segmented by room type, booking source, and customer demographics
-- **Aggregation:** Calculated occupancy rates, average length of stay, and revenue per room
+Tools: SQL
 
-## 📊 Process
-1. **Data Cleaning**
-   - Removed duplicate booking IDs
-   - Standardized inconsistent room type labels (e.g., “Deluxe”, “DLX” → “Deluxe”)
+Dataset(s): reservations, room inventory, rates, cancellations logs
 
-2. **Joins**
-   - Linked `bookings` table with `customers` and `rooms` to enrich operational insights
+How to open:
+- SQL: run scripts in /sql-projects/hotel-operations-analysis/scripts in the order listed.
 
-3. **Filtering**
-   - Focused on active bookings within the last 12 months
-   - Segmented by booking source (direct vs. online travel agency)
+Files in this folder:
+- data/ (if present)
+- scripts/
+- assets/hotel-operations-analysis-hero.png
 
-4. **Aggregation**
-   - Calculated occupancy rates per month
-   - Computed average revenue per room type
-   - Identified peak booking periods
+Key steps performed:
+- Data cleaning: normalize booking timestamps, align timezone differences, clean rate values
+- Joins/aggregations: join reservations to room inventory and aggregate metrics by property/date
+- Calculations: occupancy rate, ADR, RevPAR, cancellation rate
 
-## 📈 Results
-- **Occupancy Trends:** Revealed seasonal peaks in summer months with underutilization in winter  
-- **Revenue Insights:** Deluxe rooms generated 40% higher revenue per night compared to standard rooms  
-- **Operational Efficiency:** Online travel agency bookings had higher cancellation rates, impacting revenue predictability  
+Key SQL snippets / pseudo-code:
+```
+-- Example: occupancy rate by property and date
+SELECT property_id, date,
+       SUM(CASE WHEN status='booked' THEN 1 ELSE 0 END) / CAST(total_rooms AS FLOAT) AS occupancy_rate
+FROM reservations
+JOIN properties USING(property_id)
+GROUP BY property_id, date, total_rooms;
+```
 
-## 🎯 Teaching Takeaway
-This case study demonstrates how **cleaning and joining hotel operations data** can reveal actionable insights for resource planning, pricing strategies, and marketing focus.
+Key visuals:
+- Image: assets/hotel-operations-analysis-hero.png — heatmap of occupancy and ADR trends
 
----
+Takeaways:
+- Understand seasonal occupancy patterns and rate opportunities
+- Identify properties with frequent cancellations for targeted interventions
+- Monitor ADR vs occupancy trade-offs in pricing strategy
 
-## 📷 Visuals
-*(Insert screenshots here – e.g., raw vs cleaned booking table, SQL query outputs, charts of occupancy trends)*
+Tableau Public link (if published): https://public.tableau.com/views/<your-viz-slug>
 
----
+Note: placeholder assets have been committed to assets/. I will optimize and add code snippet images once you confirm upload; for now this README and the SVG placeholders provide structure and preview visibility.
 
-## 🔗 Links
-- SQL Script: [`hotel_operations_analysis.sql`](hotel_operations_analysis.sql)
+License: MIT
