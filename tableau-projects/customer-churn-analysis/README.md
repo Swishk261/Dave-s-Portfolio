@@ -1,32 +1,43 @@
-# Customer Churn Analysis (Tableau)
+# Customer Churn Analysis
 
-## 📌 Context
-Customer churn is a critical challenge for subscription businesses. This project uses Tableau to visualize churn drivers and build a storytelling dashboard for decision-makers.
+Short description: Storytelling dashboard showing churn drivers, risk segmentation, and recommended interventions.
 
-## 🛠️ Techniques Used
-- Tableau Dashboard: Interactive filters, KPIs, churn segmentation
-- Tableau Story: Narrative flow showing churn drivers and retention strategies
+Tools: Tableau
 
-## 📊 Process
-1. **Data Preparation:** Cleaned customer records and standardized churn labels  
-2. **Dashboard Design:** Built KPIs (churn %, retention rate, revenue impact)  
-3. **Storytelling Flow:** Created a Tableau Story to guide stakeholders through churn drivers  
+Dataset(s): customer transactions, subscription logs, engagement metrics
 
-## 📈 Results
-- Identified top churn drivers: contract length and customer support interactions  
-- Highlighted retention opportunities: loyalty programs and proactive support outreach  
-- Delivered a dashboard for executives to monitor churn in real time  
+How to open:
+- Tableau: open workbook in tableau-projects/customer-churn-analysis/ (TWBX/TWB). The workbook is designed to work in Tableau Desktop; published versions may be available on Tableau Public.
 
----
+Files in this folder:
+- workbook.twbx / workbook.twb
+- exports/ (PNG/GIF previews)
+- assets/customer-churn-analysis-hero.png
 
-## 📷 Visuals
-![Dashboard Overview](images/dashboard_overview.png)  
-*Interactive dashboard showing churn KPIs*
+Key steps performed:
+- Data cleaning: align subscription events and compute tenure
+- Joins/aggregations: combine usage and billing events to create churn label
+- Calculations: churn rate, risk scoring, driver decomposition
 
-![Churn Drivers](images/churn_drivers.png)  
-*Story point highlighting contract length impact on churn*
+Key SQL snippets / pseudo-code:
+```
+-- Example: churn rate by cohort
+SELECT cohort_month,
+       SUM(CASE WHEN churned THEN 1 ELSE 0 END) / COUNT(*) AS churn_rate
+FROM customers
+GROUP BY cohort_month;
+```
 
----
+Key visuals:
+- Image: assets/customer-churn-analysis-hero.png — dashboard highlighting churn drivers and segmentation
 
-## 🔗 Links
-- Tableau Public: [View Dashboard](https://public.tableau.com/) *(insert your link)*
+Takeaways:
+- Target high-risk cohorts with retention offers
+- Track leading indicators (engagement, billing failures) as early warning
+- Use segmented interventions by customer lifetime value
+
+Tableau Public link (if published): https://public.tableau.com/views/<your-viz-slug>
+
+Note: placeholder assets have been committed to assets/. I will optimize and add code snippet images once you confirm upload; for now this README and the SVG placeholders provide structure and preview visibility.
+
+License: MIT

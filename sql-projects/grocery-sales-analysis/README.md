@@ -1,52 +1,42 @@
- # Grocery Sales Analysis (SQL)
+# Grocery Sales Analysis
 
-## 📌 Context
-This project analyzes grocery sales data to uncover purchasing trends, highlight top-performing categories, and identify opportunities for inventory optimization.
+Short description: Clean and aggregate grocery sales to analyze category trends, promotions impact, and store performance.
 
-## 🛠️ Techniques Used
-- SQL: Data cleaning, filtering, aggregation
-- Visual storytelling: Screenshots of key queries with annotations
+Tools: SQL
 
-## 📊 Process
-1. **Data Cleaning**
-   - Removed duplicate transaction IDs
-   - Standardized product category names
+Dataset(s): sales transactions, product catalog, promotions table
 
-2. **Filtering**
-   - Focused on transactions within the last 6 months
-   - Segmented by product category and store location
+How to open:
+- SQL: run scripts in /sql-projects/grocery-sales-analysis/scripts in the specified order.
 
-3. **Aggregation**
-   - Calculated total sales per category
-   - Identified top 5 products by revenue
+Files in this folder:
+- data/
+- scripts/
+- assets/grocery-sales-analysis-hero.png
 
----
+Key steps performed:
+- Data cleaning: standardize SKUs and product categories, fill missing prices from catalog
+- Joins/aggregations: join transactions to product catalog and promotions table
+- Calculations: compute net revenue, promotional lift, category share
 
-## 📷 Script Screenshots
-Below are key SQL queries used in this project:
+Key SQL snippets / pseudo-code:
+```
+-- Example: net revenue by product
+SELECT product_id, SUM(price * quantity - discount) AS net_revenue
+FROM sales
+GROUP BY product_id;
+```
 
-![Data Cleaning Query](images/data_cleaning_query.png)  
-*Removing duplicate transaction IDs and standardizing product categories*
+Key visuals:
+- Image: assets/grocery-sales-analysis-hero.png — trends by category and promotional impact
 
-![Filtering Query](images/filtering_query.png)  
-*Selecting transactions from the last 6 months*
+Takeaways:
+- Highlight best/worst performing categories during promo periods
+- Recommend assortment or promo changes based on lift metrics
+- Use net revenue measures to prioritize high-margin SKUs
 
-![Aggregation Query](images/aggregation_query.png)  
-*Calculating total sales per category and identifying top products*
+Tableau Public link (if published): https://public.tableau.com/views/<your-viz-slug>
 
----
+Note: placeholder assets have been committed to assets/. I will optimize and add code snippet images once you confirm upload; for now this README and the SVG placeholders provide structure and preview visibility.
 
-## 📈 Results
-- **Top Categories:** Fresh produce and dairy accounted for 55% of total sales  
-- **Revenue Drivers:** Top 5 products contributed 30% of overall revenue  
-- **Inventory Insight:** Seasonal spikes in produce sales suggest opportunities for dynamic stocking  
-
----
-
-## 🎯 Teaching Takeaway
-This case study shows how **cleaning, filtering, and aggregating grocery sales data** can reveal actionable insights for inventory planning and category management.
-
----
-
-## 🔗 Links
-- SQL Script: [`grocery_sales_analysis.sql`](grocery_sales_analysis.sql)
+License: MIT
