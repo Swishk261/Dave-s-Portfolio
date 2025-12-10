@@ -1,37 +1,21 @@
-# Data Portfolio – SQL & Tableau Projects
+# assets/ — where to add visuals
 
-Welcome! I'm **Dave Williams**, a Data Analyst & Visual Storyteller specialising in SQL troubleshooting, Tableau dashboards, and annotated case studies.  
-This portfolio showcases my ability to **clean data, build insights, and tell stories visually**.
+This folder should contain preview images and short gifs for dashboards and visualizations used in the top-level README and project READMEs.
 
----
+Naming convention (used in the README):
+- assets/<project-slug>-preview.svg/png  — small preview image (recommended 900x500 px)
+- assets/<project-slug>-hero.svg/png     — larger hero image for project README (1200x600 px)
+- assets/<project-slug>-step-1.svg/png   — optional: images referenced inside project README
 
-## 📂 Project Index
+Accessibility:
+- Add descriptive alt text when referencing images in Markdown.
+- For animated gifs keep filesize small (<= 3MB) so the repo loads quickly.
 
-| Project | Tools | Highlights |
-|---------|-------|------------|
-| [Support Ticket Analysis](sql-projects/support-ticket-analysis) | SQL, Tableau | Data cleaning, joins, aggregation, dashboard |
-| [Hotel Operations Analysis](sql-projects/hotel-operations-analysis) | SQL | Filtering, joins, operational insights |
-| [Grocery Sales Analysis](sql-projects/grocery-sales-analysis) | SQL | Cleaning, filtering, aggregation |
-| [Motorcycle Sales Analysis](sql-projects/motorcycle-sales-analysis) | SQL | Net revenue calculation |
-| [Fan Engagement Case Study](sql-projects/fan-engagement-case-study) | SQL | Joins, filtering, aggregation |
-| [Customer Churn Analysis](tableau-projects/customer-churn-analysis) | Tableau | Storytelling dashboard with churn drivers |
-| [Support Ticket Dashboard](tableau-projects/support-ticket-dashboard) | Tableau | Interactive dashboard |
-| [Beauty Industry Sales Analysis](tableau-projects/beauty-industry-sales-analysis) | Tableau | Sales trends visualization |
-| [IPL Fan Survey Analysis](r-programming-projects/ipl-fan-survey-analysis) |R Programming | Data visualisation, Data wrangling, ggplot2 
+How to add images:
+1. Create or export a JPG/PNG/GIF from your tool (Tableau, PowerPoint export, etc.)
+2. Resize to recommended dimensions and compress.
+3. Commit to the repo under assets/ following the naming convention.
+4. Update the top-level README and the project's README to point at the new file and include an alt text description.
 
----
-
-## 🛠️ Skills Highlight
-- **SQL:** Data cleaning, joins, filtering, aggregation, revenue calculations  
-- **Tableau:** Dashboards, storytelling, interactive actions  
-- **Documentation:** Modular case studies, annotated visuals, teaching takeaways  
-
----
-
-## 🔗 Links
-- [Tableau Public Profile](https://public.tableau.com/) 
-- [LinkedIn](www.linkedin.com/in/dave-williams-209a23252)   
-
----
-
-
+Example:
+- assets/support-ticket-dashboard-preview.svg  — referenced in README as: `![Support ticket dashboard preview](assets/support-ticket-dashboard-preview.svg "Support Ticket Dashboard")`.
