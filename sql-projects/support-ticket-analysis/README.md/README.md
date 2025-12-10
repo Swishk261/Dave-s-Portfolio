@@ -1,8 +1,8 @@
 # Support Ticket Analysis (SQL + Tableau)
 
 ## 📌 Context
-Support teams often struggle with messy ticket data. This project cleans and analyzes support ticket records to uncover resolution trends and workload distribution.
-
+Tech Solutions Inc. has seen a drop in customer satisfaction over the past few months, shown in survey results and support tickets. This decline risks customer retention and company growth. Managers currently lack clear insights into why customers are dissatisfied.
+This project will analyse customer feedback and support data to identify key issues, uncover trends, and provide actionable recommendations to improve customer experience and satisfaction.
 ## 🛠️ Techniques Used
 - SQL: Data cleaning, joins, aggregation
 - Tableau: Dashboard for ticket resolution times and workload insights
