@@ -53,3 +53,5 @@ This case study shows how **cleaning, filtering, and aggregating grocery sales d
 
 ## 🔗 Links
 - SQL Script: [`grocery_sales_analysis.sql`](grocery_sales_analysis.sql)
+
+<a href="../../README.md">Back to homepage</a>
