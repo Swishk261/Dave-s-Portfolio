@@ -1,7 +1,7 @@
  # Motorcycle Sales Analysis (SQL)
 
 ## 📌 Context
-This project analyses grocery sales data to uncover purchasing trends, highlight top-performing categories, and identify opportunities for inventory optimisation.
+This project analyzes motorcycle sales data to calculate net revenue and uncover trends in product performance and profitability.
 
 ## 🛠️ Techniques Used
 - SQL: Data cleaning, filtering, aggregation
@@ -10,41 +10,35 @@ This project analyses grocery sales data to uncover purchasing trends, highlight
 ## 📊 Process
 1. **Data Cleaning**
    - Removed duplicate transaction IDs
-   - Standardised product category names
+   - Standardized product category names
 
 2. **Filtering**
    - Focused on transactions within the last 6 months
    - Segmented by product category and store location
 
 3. **Aggregation**
-   - Calculated total sales per category
-   - Identified top 5 products by revenue
+   - Calculated net revenue per product
+   - Grouped results to identify top performers
 
 ---
 
 ## 📷 Script Screenshots
 Below are key SQL queries used in this project:
 
-![Data Cleaning Query](images/data_cleaning_query.png)  
-*Removing duplicate transaction IDs and standardising product categories*
-
-![Filtering Query](images/filtering_query.png)  
-*Selecting transactions from the last 6 months*
-
-![Aggregation Query](images/aggregation_query.png)  
-*Calculating total sales per category and identifying top products*
+![Net Revenue Calculation](https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/SQL%20mortcyclye%20sales%20%20calculate%20net_revenue.png?raw=1)  
+*Net revenue calculation: Computing net revenue by product and grouping for analysis*
 
 ---
 
 ## 📈 Results
-- **Top Categories:** Fresh produce and dairy accounted for 55% of total sales  
-- **Revenue Drivers:** Top 5 products contributed 30% of overall revenue  
-- **Inventory Insight:** Seasonal spikes in produce sales suggest opportunities for dynamic stocking  
+- **Top Products:** Identified motorcycles generating highest net revenue  
+- **Revenue Drivers:** Calculated profitability metrics for inventory decisions  
+- **Performance Insight:** Grouped data revealed seasonal trends and top-performing models  
 
 ---
 
 ## 🎯 Teaching Takeaway
-This case study shows how **cleaning, filtering, and aggregating grocery sales data** can reveal actionable insights for inventory planning and category management.
+This case study shows how **calculating net revenue and grouping sales data** can reveal actionable insights for inventory planning and product strategy.
 
 ---
 

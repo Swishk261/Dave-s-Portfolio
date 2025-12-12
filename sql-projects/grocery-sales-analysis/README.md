@@ -25,14 +25,17 @@ This project analyzes grocery sales data to uncover purchasing trends, highlight
 ## 📷 Script Screenshots
 Below are key SQL queries used in this project:
 
-![Data Cleaning Query](images/data_cleaning_query.png)  
-*Removing duplicate transaction IDs and standardizing product categories*
+![Data Cleaning Query](https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/grocery-sales-analysis.PNG?raw=1)  
+*Data cleaning: Removing duplicate transaction IDs and standardizing product categories*
 
-![Filtering Query](images/filtering_query.png)  
-*Selecting transactions from the last 6 months*
+![Filtering Query](https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/grocery-sales-code-2.PNG?raw=1)  
+*Filtering: Selecting transactions from the last 6 months and segmenting by location*
 
-![Aggregation Query](images/aggregation_query.png)  
-*Calculating total sales per category and identifying top products*
+![Aggregation Query](https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/grocery-sales-code-3.PNG?raw=1)  
+*Aggregation: Calculating total sales per category and identifying top products*
+
+![Overview Output](https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/grocery-sales.PNG?raw=1)  
+*Final results showing sales breakdown by category and top revenue drivers*
 
 ---
 
