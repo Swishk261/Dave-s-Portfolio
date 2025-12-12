@@ -45,4 +45,4 @@ This case study shows how **calculating net revenue and grouping sales data** ca
 ## 🔗 Links
 - SQL Script: [`grocery_sales_analysis.sql`](grocery_sales_analysis.sql)
 
-<a>Back to homepage</a>
+<a href="../../README.md">Back to homepage</a>

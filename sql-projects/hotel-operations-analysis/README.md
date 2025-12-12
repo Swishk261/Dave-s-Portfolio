@@ -57,4 +57,4 @@ Below are key SQL queries used in this project:
 ## 🔗 Links
 - SQL Script: [`hotel_operations_analysis.sql`](hotel_operations_analysis.sql)
 
-<a>Back to homepage</a>
+<a href="../../README.md">Back to homepage</a>

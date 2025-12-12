@@ -31,4 +31,4 @@ This project analyzes beauty industry sales data to identify trends, top-perform
 ## 🔗 Links
 - Tableau Public: [View Dashboard](https://public.tableau.com/) *(insert your link)*
 
-<a>Back to homepage</a>
+<a href="../../README.md">Back to homepage</a>

@@ -31,4 +31,4 @@ This project creates an interactive Tableau dashboard to monitor support ticket 
 ## 🔗 Links
 - Tableau Public: [View Dashboard](https://public.tableau.com/) *(insert your link)*
 
-<a>Back to homepage</a>
+<a href="../../README.md">Back to homepage</a>
