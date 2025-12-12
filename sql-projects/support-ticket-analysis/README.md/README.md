@@ -58,4 +58,6 @@ This case study demonstrates how **cleaning and joining messy support data** can
 
 ## 🔗 Links
 - SQL Script: [`support_ticket_analysis.sql`](support_ticket_analysis.sql)  
-- Tableau Dashboard: [View on Tableau Public](https://public.tableau.com/) *(insert link)*  
+- Tableau Dashboard: [View on Tableau Public](https://public.tableau.com/) *(insert link)*
+
+<a>Back to homepage</a>  
