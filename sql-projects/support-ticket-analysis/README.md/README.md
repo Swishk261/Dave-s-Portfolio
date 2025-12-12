@@ -23,14 +23,36 @@ This case study demonstrates how **cleaning and joining messy support data** can
 
 ---
 
-## 📷 Script Screenshots
-Below are key SQL queries used in this project:
+## 📷 Visuals
 
-![Data Cleaning Query](images/data_cleaning_query.png)
-*Cleaning duplicate booking records*
+### What each image's code does:
 
-![Aggregation Query](images/aggregation_query.png)
-*Calculating monthly occupancy rates*
+1. **Data Cleaning (Images 1-2):** Removed duplicates and standardized support ticket categories to ensure data quality for analysis.
+
+2. **Response Time Calculation (Image 3):** Calculated minimum and maximum response times to identify efficiency patterns and bottlenecks.
+
+3. **Join and Filter Analysis (Image 4):** Joined support and survey tables, then filtered for BUG and Installation problem types to focus on critical customer issues.
+
+4. **Dashboard Preview (Image 5):** Interactive Tableau dashboard displaying ticket resolution insights and workload distribution.
+
+---
+
+### SQL Code Screenshots
+
+![Data Cleaning - Step 1](https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/support-ticket-analysis-code-1.PNG?raw=1)  
+*Data cleaning: Removing duplicates and standardizing categories*
+
+![Data Cleaning - Step 2](https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/support-ticket-analysis-code-2%20.PNG?raw=1)  
+*Data cleaning: Further standardization and validation*
+
+![Response Time Calculation](https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/support-ticket-analysis-code-3.PNG?raw=1)  
+*Calculating min and max response times for efficiency analysis*
+
+![Join and Filter Analysis](https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/support-ticket-analysis-code-4.PNG?raw=1)  
+*Joining support and survey tables, filtering for BUG and Installation problems*
+
+![Dashboard Preview](https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/support-ticket-analysis-dashboard-code-5.PNG?raw=1)  
+*Interactive Tableau dashboard showing ticket resolution and workload insights*
 
 ---
 

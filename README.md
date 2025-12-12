@@ -19,13 +19,18 @@ This portfolio showcases how I clean data, build insights, and communicate findi
 
 A glimpse of my work—clean data, uncover insights, and tell compelling visual stories.
 
-> Replace each image path with your actual files (recommended: store them in `images/overview/`).
-
-| ![Overview image 1](images/overview/overview_1.png) | ![Overview image 2](images/overview/overview_2.png) | ![Overview image 3](images/overview/overview_3.png) |
-|---|---|---|
-| ![Overview image 4](images/overview/overview_4.png) | ![Overview image 5](images/overview/overview_5.png) | ![Overview image 6](images/overview/overview_6.png) |
-
-> Tip: Use consistent dimensions for a neat grid (e.g., 1400px width sources; GitHub will scale them).
+<table>
+<tr>
+<td><img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/images/overview/overview_1.png?raw=1" alt="Overview image 1" style="object-fit: cover; width: 100%; height: 100%;"></td>
+<td><img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/images/overview/overview_2.png?raw=1" alt="Overview image 2" style="object-fit: cover; width: 100%; height: 100%;"></td>
+<td><img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/images/overview/overview_3.png?raw=1" alt="Overview image 3" style="object-fit: cover; width: 100%; height: 100%;"></td>
+</tr>
+<tr>
+<td><img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/images/overview/overview_4.png?raw=1" alt="Overview image 4" style="object-fit: cover; width: 100%; height: 100%;"></td>
+<td><img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/images/overview/overview_5.png?raw=1" alt="Overview image 5" style="object-fit: cover; width: 100%; height: 100%;"></td>
+<td><img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/images/overview/overview_6.png?raw=1" alt="Overview image 6" style="object-fit: cover; width: 100%; height: 100%;"></td>
+</tr>
+</table>
 
 ---
 
@@ -41,14 +46,14 @@ A glimpse of my work—clean data, uncover insights, and tell compelling visual 
 
 | Project | Area | Tools | Highlights |
 |---|---|---|---|
-| [Support Ticket Analysis](sql-projects/support-ticket-analysis) | Operations | SQL, Tableau | Data cleaning, joins, aggregation, dashboard |
-| [Hotel Operations Analysis](sql-projects/hotel-operations-analysis) | Hospitality | SQL | Filtering, joins, operational insights |
-| [Grocery Sales Analysis](sql-projects/grocery-sales-analysis) | Retail | SQL | Cleaning, filtering, aggregation |
-| [Motorcycle Sales Analysis](sql-projects/motorcycle-sales-analysis) | Retail | SQL | Net revenue calculation |
-| [Fan Engagement Case Study](sql-projects/fan-engagement-case-study) | Sports | SQL | Joins, filtering, aggregation |
-| [Customer Churn Analysis](tableau-projects/customer-churn-analysis) | Product | Tableau | Storytelling dashboard with churn drivers |
-| [Support Ticket Dashboard](tableau-projects/support-ticket-dashboard) | Operations | Tableau | Interactive dashboard |
-| [Beauty Industry Sales Analysis](tableau-projects/beauty-industry-sales-analysis) | Retail | Tableau | Sales trends visualization |
+| [Support Ticket Analysis](sql-projects/support-ticket-analysis) | Operations | SQL, Tableau | Cleaned support data, calculated response times, dashboard insights |
+| [Hotel Operations Analysis](sql-projects/hotel-operations-analysis) | Hospitality | SQL | Joined booking tables, filtered active records, occupancy metrics |
+| [Grocery Sales Analysis](sql-projects/grocery-sales-analysis) | Retail | SQL | Category aggregation, top products by revenue |
+| [Motorcycle Sales Analysis](sql-projects/motorcycle-sales-analysis) | Retail | SQL | Net revenue calculation and grouping |
+| [Fan Engagement Case Study](sql-project/sports-analytics-project/fan-engagement-case-study) | Sports | SQL | Multi-step analysis, joins, filtering, aggregation |
+| [Customer Churn Analysis](tableau-projects/customer-churn-analysis) | Product | Tableau | Churn drivers, storytelling dashboard |
+| [Support Ticket Dashboard](tableau-projects/support-ticket-dashboard) | Operations | Tableau | Interactive ticket resolution monitoring |
+| [Beauty Industry Sales Analysis](tableau-projects/beauty-industry-sales-analysis) | Retail | Tableau | Sales trends and category performance |
 | [IPL Fan Survey Analysis](r-programming-projects/ipl-fan-survey-analysis) | Sports | R | Data visualization, data wrangling, ggplot2 |
 
 > Tip: Each project folder includes a README with context, methods, visuals, and key takeaways.

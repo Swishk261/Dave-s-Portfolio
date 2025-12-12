@@ -1,30 +1,30 @@
 # Beauty Industry Sales Analysis (Tableau)
 
 ## 📌 Context
-Customer churn is a critical challenge for subscription businesses. This project uses Tableau to visualize churn drivers and build a storytelling dashboard for decision-makers.
+This project analyzes beauty industry sales data to identify trends, top-performing products, and seasonal patterns that can inform inventory and marketing strategies.
 
 ## 🛠️ Techniques Used
-- Tableau Dashboard: Interactive filters, KPIs, churn segmentation
-- Tableau Story: Narrative flow showing churn drivers and retention strategies
+- Tableau Dashboard: Interactive filters, KPIs, sales segmentation
+- Visual storytelling: Sales trends and category performance analysis
 
 ## 📊 Process
-1. **Data Preparation:** Cleaned customer records and standardized churn labels  
-2. **Dashboard Design:** Built KPIs (churn %, retention rate, revenue impact)  
-3. **Storytelling Flow:** Created a Tableau Story to guide stakeholders through churn drivers  
+1. **Data Preparation:** Cleaned sales records and standardized product categories  
+2. **Dashboard Design:** Built KPIs (total sales, growth %, top products)  
+3. **Trend Analysis:** Visualized seasonal patterns and category performance  
 
 ## 📈 Results
-- Identified top churn drivers: contract length and customer support interactions  
-- Highlighted retention opportunities: loyalty programs and proactive support outreach  
-- Delivered a dashboard for executives to monitor churn in real time  
+- Identified top-selling product categories and seasonal peaks  
+- Highlighted growth opportunities in underperforming segments  
+- Delivered an interactive dashboard for real-time sales monitoring  
 
 ---
 
 ## 📷 Visuals
-![Dashboard Overview](images/dashboard_overview.png)  
-*Interactive dashboard showing churn KPIs*
+![Dashboard Overview](https://github.com/Swishk261/Dave-s-Portfolio/blob/main/tableau-projects/beauty-industry-sales-analysis/images/dashboard_overview.png?raw=1)  
+*Interactive dashboard showing beauty industry sales KPIs and trends*
 
-![Churn Drivers](images/churn_drivers.png)  
-*Story point highlighting contract length impact on churn*
+![Sales Trends](https://github.com/Swishk261/Dave-s-Portfolio/blob/main/tableau-projects/beauty-industry-sales-analysis/images/churn_drivers.png?raw=1)  
+*Category performance and seasonal sales patterns*
 
 ---
 

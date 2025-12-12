@@ -37,7 +37,20 @@ This case study demonstrates how **cleaning and joining hotel operations data** 
 ---
 
 ## 📷 Visuals
-*(Insert screenshots here – e.g., raw vs cleaned booking table, SQL query outputs, charts of occupancy trends)*
+
+Below are key SQL queries used in this project:
+
+![Data Cleaning](https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/hotel-operations-analysis-code-1.PNG?raw=1)  
+*Data cleaning: Removing duplicate booking records and standardizing room categories*
+
+![Table Joins](https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/hotel-operations-analysis-code-2.PNG?raw=1)  
+*Joining bookings with customer and room tables to enrich operational insights*
+
+![Filtering Window](https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/hotel-operations-analysis-code-3.PNG?raw=1)  
+*Filtering for active bookings within the last 12 months and segmenting by booking source*
+
+![Aggregation and Metrics](https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/hotel-operations-analysis-code-4.PNG?raw=1)  
+*Calculating occupancy rates, average length of stay, and revenue per room type*
 
 ---
 

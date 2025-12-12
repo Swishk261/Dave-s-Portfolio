@@ -20,11 +20,20 @@ Customer churn is a critical challenge for subscription businesses. This project
 ---
 
 ## 📷 Visuals
-![Dashboard Overview](images/dashboard_overview.png)  
-*Interactive dashboard showing churn KPIs*
 
-![Churn Drivers](images/churn_drivers.png)  
-*Story point highlighting contract length impact on churn*
+Below are the key dashboards and analysis components:
+
+![Churn Analysis - Code 1](https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/customer-churn-code-1.PNG?raw=1)  
+*Dashboard showing churn rate by customer segment and contract type*
+
+![Churn Analysis - Code 2](https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/customer-churn-code-2.PNG?raw=1)  
+*Analysis of customer support interactions and their correlation with churn*
+
+![Churn Overview - Code 3](https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/customer-churn-overview-code-3.PNG?raw=1)  
+*Comprehensive overview dashboard with KPIs: churn %, retention rate, and revenue impact*
+
+![Churn Story](https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/customer-churn-story.PNG?raw=1)  
+*Tableau Story presenting narrative flow of churn drivers and retention strategies*
 
 ---
 
