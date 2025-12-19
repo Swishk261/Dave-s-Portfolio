@@ -42,6 +42,15 @@ A glimpse of my work—clean data, uncover insights, and tell compelling visual 
 
 ---
 
+## Sports Analytics Projects
+
+| Project | Tools | Highlights |
+|---|---|---|
+| [Fan Engagement Case Study](sql-project/sports-analytics-project/fan-engagement-case-study) | SQL | Multi-step analysis, joins, filtering, aggregation |
+| [IPL Fan Survey Analysis](r-programming-projects/ipl-fan-survey-analysis) | R | Data visualization, data wrangling, ggplot2 |
+
+---
+
 ## Project Index
 
 | Project | Area | Tools | Highlights |
@@ -50,11 +59,9 @@ A glimpse of my work—clean data, uncover insights, and tell compelling visual 
 | [Hotel Operations Analysis](sql-projects/hotel-operations-analysis) | Hospitality | SQL | Joined booking tables, filtered active records, occupancy metrics |
 | [Grocery Sales Analysis](sql-projects/grocery-sales-analysis) | Retail | SQL | Category aggregation, top products by revenue |
 | [Motorcycle Sales Analysis](sql-projects/motorcycle-sales-analysis) | Retail | SQL | Net revenue calculation and grouping |
-| [Fan Engagement Case Study](sql-project/sports-analytics-project/fan-engagement-case-study) | Sports | SQL | Multi-step analysis, joins, filtering, aggregation |
 | [Customer Churn Analysis](tableau-projects/customer-churn-analysis) | Product | Tableau | Churn drivers, storytelling dashboard |
 | [Support Ticket Dashboard](tableau-projects/support-ticket-dashboard) | Operations | Tableau | Interactive ticket resolution monitoring |
 | [Beauty Industry Sales Analysis](tableau-projects/beauty-industry-sales-analysis) | Retail | Tableau | Sales trends and category performance |
-| [IPL Fan Survey Analysis](r-programming-projects/ipl-fan-survey-analysis) | Sports | R | Data visualization, data wrangling, ggplot2 |
 
 > Tip: Each project folder includes a README with context, methods, visuals, and key takeaways.
 
