@@ -19,3 +19,6 @@ This repository contains an analysis of survey data on IPL (Indian Premier Leagu
 
 ![Gender Distribution](assets/R_Gender_3.png)  
 *Pie chart displaying gender distribution from survey data*  
+
+![Brand Satisfaction](assets/R_BS.png)  
+*Graph showing brand satisfaction survey results*  
