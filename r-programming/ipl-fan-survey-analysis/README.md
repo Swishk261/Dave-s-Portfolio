@@ -55,7 +55,7 @@ This case study demonstrates how R programming and visualisation can transform r
 ![Brand Commitment – Q7](../../assets/R_Bc_7.png)
 *Team quality perception by province for BC7 (Brand Commitment – Question 7)*
 
-![Brand Satisfaction – Summary](../../assets/R%20_BS.png)
+![Brand Satisfaction – Summary](../../assets/R_BS.png)
 *Overall brand satisfaction visual*
 
 ![Brand Satisfaction – Q6](../../assets/R_BS_6.png)
