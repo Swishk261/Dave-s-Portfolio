@@ -47,7 +47,7 @@ A glimpse of my work—clean data, uncover insights, and tell compelling visual 
 | Project | Tools | Highlights |
 |---|---|---|
 | [Fan Engagement Case Study](sql-project/sports-analytics-project/fan-engagement-case-study) | SQL | Multi-step analysis, joins, filtering, aggregation |
-| [IPL Fan Survey Analysis](r-programming-projects/ipl-fan-survey-analysis) | R | Data visualization, data wrangling, ggplot2 |
+| [IPL Fan Survey Analysis](r-programming/ipl-fan-survey-analysis) | R | Data visualization, data wrangling, ggplot2 |
 
 ---
 
