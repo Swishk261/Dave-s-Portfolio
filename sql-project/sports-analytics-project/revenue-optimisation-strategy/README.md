@@ -31,73 +31,73 @@ This project designs and evaluates a revenue optimisation framework across ticke
 This analysis follows a 13-step workflow, each focusing on a specific aspect of the revenue optimisation analysis:
 
 <table>
-<tr>
-<td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-1.png?raw=1" alt="Step 1" style="width: 100%;">
+<tbody><tr>
+<td>
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-1.png?raw=1">
 <em>Step 1: Initial data exploration</em>
 </td>
-<td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-2.png?raw=1" alt="Step 2" style="width: 100%;">
+<td>
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-2.png?raw=1">
 <em>Step 2: Data validation and quality checks</em>
 </td>
-<td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-3.png?raw=1" alt="Step 3" style="width: 100%;">
+<td>
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-3.png?raw=1">
 <em>Step 3: Product and channel mapping</em>
 </td>
 </tr>
 
 <tr>
-<td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-4.png?raw=1" alt="Step 4" style="width: 100%;">
+<td>
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-4.png?raw=1">
 <em>Step 4: Segment construction (fan, seat, channel)</em>
 </td>
-<td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-5.png?raw=1" alt="Step 5" style="width: 100%;">
+<td>
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-5.png?raw=1">
 <em>Step 5: Baseline demand estimation</em>
 </td>
-<td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-6.png?raw=1" alt="Step 6" style="width: 100%;">
+<td>
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-6.png?raw=1">
 <em>Step 6: Price elasticity estimation</em>
 </td>
 </tr>
 
 <tr>
-<td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-7.png?raw=1" alt="Step 7" style="width: 100%;">
+<td>
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-7.png?raw=1">
 <em>Step 7: Dynamic pricing rule design</em>
 </td>
-<td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-8.png?raw=1" alt="Step 8" style="width: 100%;">
+<td>
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-8.png?raw=1">
 <em>Step 8: Promotion uplift modelling</em>
 </td>
-<td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-9.png?raw=1" alt="Step 9" style="width: 100%;">
+<td>
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-9.png?raw=1">
 <em>Step 9: Event/seat-level demand forecasting</em>
 </td>
 </tr>
 
 <tr>
-<td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-10.png?raw=1" alt="Step 10" style="width: 100%;">
-<em>Step 10: Yield & inventory optimisation</em>
+<td>
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-10.png?raw=1">
+<em>Step 10: Yield &amp; inventory optimisation</em>
 </td>
-<td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-11.png?raw=1" alt="Step 11" style="width: 100%;">
-<em>Step 11: Cross-sell & upsell analysis</em>
+<td>
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-11.png?raw=1">
+<em>Step 11: Cross-sell &amp; upsell analysis</em>
 </td>
-<td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-12.png?raw=1" alt="Step 12" style="width: 100%;">
+<td>
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-12.png?raw=1">
 <em>Step 12: Final aggregation and insights</em>
 </td>
 </tr>
 
 <tr>
-<td colspan="3" align="center">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-13.png?raw=1" alt="Step 13" style="width: 33%;">
+<td>
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/ros-part-13.png?raw=1">
 <em>Step 13: Summary metrics and conclusions</em>
 </td>
 </tr>
-</table>
+</tbody></table>
 
 ---
 
@@ -114,6 +114,6 @@ This case study shows how multi-step analysis using joins, filtering, aggregatio
 ---
 
 ## 🔗 Links
-- Analysis Script: [`revenue_optimisation_strategy.sql`](revenue_optimisation_strategy.sql) or [`revenue_optimisation_strategy.ipynb`](revenue_optimisation_strategy.ipynb)
+- Analysis Script: <a>`revenue_optimisation_strategy.sql`</a> or <a>`revenue_optimisation_strategy.ipynb`</a>
 
-<a href="../../../README.md">Back to homepage</a>
+<a>Back to homepage</a>
