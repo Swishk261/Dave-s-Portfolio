@@ -33,67 +33,67 @@ This analysis follows a 13-step workflow, each focusing on a specific aspect of 
 <table>
 <tbody><tr>
 <td>
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/oeo-part-1.png?raw=1">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-1.png?raw=1">
 <em>Step 1: Initial data ingestion and cleaning</em>
 </td>
 <td>
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/oeo-part-2.png?raw=1">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-2.png?raw=1">
 <em>Step 2: Play taxonomy mapping</em>
 </td>
 <td>
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/oeo-part-3.png?raw=1">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-3.png?raw=1">
 <em>Step 3: Possession-level feature engineering</em>
 </td>
 </tr>
 
 <tr>
 <td>
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/oeo-part-4.png?raw=1">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-4.png?raw=1">
 <em>Step 4: Shot quality modelling (xFG/xG/xPS)</em>
 </td>
 <td>
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/oeo-part-5.png?raw=1">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-5.png?raw=1">
 <em>Step 5: Lineup synergy &amp; spacing metrics</em>
 </td>
 <td>
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/oeo-part-6.png?raw=1">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-6.png?raw=1">
 <em>Step 6: Expected possession value (xEV) modelling</em>
 </td>
 </tr>
 
 <tr>
 <td>
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/oeo-part-7.png?raw=1">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-7.png?raw=1">
 <em>Step 7: Context-aware policy evaluation (IPS/DR)</em>
 </td>
 <td>
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/oeo-part-8.png?raw=1">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-8.png?raw=1">
 <em>Step 8: Opponent tendency profiling</em>
 </td>
 <td>
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/oeo-part-9.png?raw=1">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-9.png?raw=1">
 <em>Step 9: Decision rule optimisation</em>
 </td>
 </tr>
 
 <tr>
 <td>
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/oeo-part-10.png?raw=1">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-10.png?raw=1">
 <em>Step 10: Simulation &amp; scenario testing</em>
 </td>
 <td>
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/oeo-part-11.png?raw=1">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-11.png?raw=1">
 <em>Step 11: Validation &amp; backtesting</em>
 </td>
 <td>
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/oeo-part-12.png?raw=1">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-12.png?raw=1">
 <em>Step 12: Final aggregation and insights</em>
 </td>
 </tr>
 
 <tr>
 <td>
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/oeo-part-13.png?raw=1">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-13.png?raw=1">
 <em>Step 13: Summary metrics and recommendations</em>
 </td>
 </tr>
