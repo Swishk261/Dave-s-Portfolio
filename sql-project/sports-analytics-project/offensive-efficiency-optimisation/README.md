@@ -56,19 +56,19 @@ This analysis follows a 9-step workflow, each focusing on a specific aspect of o
 <em>Calculate offense creation score</em>
 </td>
 <td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-7.png?raw=1" alt="7" style="width: 100%;">
-<em>Analyse team three point shooting patterns</em>
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-9.png?raw=1" alt="9" style="width: 100%;">
+<em>Identify the most effiecient scorers in the NBA</em>
 </td>
 </tr>
 
 <tr>
 <td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-8.png?raw=1" alt="8" style="width: 100%;">
-<em>Analyse team offensive efficiency</em>
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-7.png?raw=1" alt="7" style="width: 100%;">
+<em>Analyse team three point shooting patterns</em>
 </td>
 <td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-9.png?raw=1" alt="9" style="width: 100%;">
-<em>Identify the most effiecient scorers in the NBA</em>
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-8.png?raw=1" alt="8" style="width: 100%;">
+<em>Analyse team offensive efficiency</em>
 </td>
 <td width="33%">
 <img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-10.png?raw=1" alt="10" style="width: 100%;">
