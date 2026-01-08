@@ -4,10 +4,9 @@
 This project is a basketball analytics case study on NBA data analyzing offensive efficiency optimization. It develops models and decision-support tools to improve offensive efficiency—shot quality, possession value, and play selection—using event-level and tracking data. The analysis follows a structured, step-based workflow for transparency and reproducibility.
 
 ## 🛠️ Techniques Used
-- Data wrangling: cleaning, filtering, aggregation, joins
-- Modelling: expected possession value (xEV), shot quality (xFG/xG), lineup synergy
-- Policy evaluation: counterfactual estimators, dynamic programming/MDP
-- Visual storytelling: step-by-step screenshots of the analysis workflow
+- SQL aggregation
+- SQL filtering
+- SQL time and date functions
 
 ## 📊 Process
 1. Data Cleaning  
