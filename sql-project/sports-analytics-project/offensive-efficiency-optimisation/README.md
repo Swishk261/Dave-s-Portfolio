@@ -33,56 +33,56 @@ This analysis follows an 11-step workflow, each focusing on a specific aspect of
 <table>
 <tr>
 <td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-1.png?raw=1" alt="Step 1" style="width: 100%;">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-1.png?raw=1" alt="1" style="width: 100%;">
 <em>Calculate offense efficiency</em>
 </td>
 <td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-2.png?raw=1" alt="Step 2" style="width: 100%;">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-2.png?raw=1" alt="2" style="width: 100%;">
 <em></em>
 </td>
 <td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-3.png?raw=1" alt="Step 3" style="width: 100%;">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-3.png?raw=1" alt="3" style="width: 100%;">
 <em>Perimeter shooting analysis</em>
 </td>
 </tr>
 
 <tr>
 <td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-4.png?raw=1" alt="Step 4" style="width: 100%;">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-4.png?raw=1" alt="4" style="width: 100%;">
 <em>Calculate effective field goal percentage</em>
 </td>
 <td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-5.png?raw=1" alt="Step 5" style="width: 100%;">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-5.png?raw=1" alt="5" style="width: 100%;">
 <em>Calculate offensive impact score(pts + plus/minus)</em>
 </td>
 <td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-6.png?raw=1" alt="Step 6" style="width: 100%;">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-6.png?raw=1" alt="6" style="width: 100%;">
 <em>Calculate offense creation score</em>
 </td>
 </tr>
 
 <tr>
 <td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-7.png?raw=1" alt="Step 7" style="width: 100%;">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-7.png?raw=1" alt="7" style="width: 100%;">
 <em>Analyse team three point shooting patterns</em>
 </td>
 <td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-8.png?raw=1" alt="Step 8" style="width: 100%;">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-8.png?raw=1" alt="8" style="width: 100%;">
 <em>Analyse team offensive efficiency</em>
 </td>
 <td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-9.png?raw=1" alt="Step 9" style="width: 100%;">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-9.png?raw=1" alt="9" style="width: 100%;">
 <em>Identify the most effiecient scorers in the NBA</em>
 </td>
 </tr>
 
 <tr>
 <td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-10.png?raw=1" alt="Step 10" style="width: 100%;">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-10.png?raw=1" alt="10" style="width: 100%;">
 <em>Compare teams offensive and defensive efficiency </em>
 </td>
 <td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-11.png?raw=1" alt="Step 11" style="width: 100%;">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-11.png?raw=1" alt="11" style="width: 100%;">
 <em>Analyse team offensive efficiency vs team success</em>
 </td>
 </tr>
