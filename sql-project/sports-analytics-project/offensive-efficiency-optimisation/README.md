@@ -34,56 +34,56 @@ This analysis follows an 11-step workflow, each focusing on a specific aspect of
 <tr>
 <td width="33%">
 <img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-1.png?raw=1" alt="Step 1" style="width: 100%;">
-<em>Step 1: Calculate offense efficiency</em>
+<em>Calculate offense efficiency</em>
 </td>
 <td width="33%">
 <img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-2.png?raw=1" alt="Step 2" style="width: 100%;">
-<em>Step 2: </em>
+<em></em>
 </td>
 <td width="33%">
 <img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-3.png?raw=1" alt="Step 3" style="width: 100%;">
-<em>Step 3: Perimeter shooting analysis</em>
+<em>Perimeter shooting analysis</em>
 </td>
 </tr>
 
 <tr>
 <td width="33%">
 <img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-4.png?raw=1" alt="Step 4" style="width: 100%;">
-<em>Step 4: Calculate effective field goal percentage</em>
+<em>Calculate effective field goal percentage</em>
 </td>
 <td width="33%">
 <img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-5.png?raw=1" alt="Step 5" style="width: 100%;">
-<em>Step 5: Calculate offensive impact score(pts + plus/minus)</em>
+<em>Calculate offensive impact score(pts + plus/minus)</em>
 </td>
 <td width="33%">
 <img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-6.png?raw=1" alt="Step 6" style="width: 100%;">
-<em>Step 6: Calculate offense creation score</em>
+<em>Calculate offense creation score</em>
 </td>
 </tr>
 
 <tr>
 <td width="33%">
 <img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-7.png?raw=1" alt="Step 7" style="width: 100%;">
-<em>Step 7: Analyse team three point shooting patterns</em>
+<em>Analyse team three point shooting patterns</em>
 </td>
 <td width="33%">
 <img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-8.png?raw=1" alt="Step 8" style="width: 100%;">
-<em>Step 8: Analyse team offensive efficiency</em>
+<em>Analyse team offensive efficiency</em>
 </td>
 <td width="33%">
 <img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-9.png?raw=1" alt="Step 9" style="width: 100%;">
-<em>Step 9: Identify the most effiecient scorers in the NBA</em>
+<em>Identify the most effiecient scorers in the NBA</em>
 </td>
 </tr>
 
 <tr>
 <td width="33%">
 <img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-10.png?raw=1" alt="Step 10" style="width: 100%;">
-<em>Step 10: Compare teams offensive and defensive efficiency </em>
+<em>Compare teams offensive and defensive efficiency </em>
 </td>
 <td width="33%">
 <img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-11.png?raw=1" alt="Step 11" style="width: 100%;">
-<em>Step 11: Analyse team offensive efficiency vs team success</em>
+<em>Analyse team offensive efficiency vs team success</em>
 </td>
 </tr>
 </table>
