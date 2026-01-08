@@ -28,7 +28,7 @@ This project develops models and decision-support tools to improve offensive eff
 
 ### What each step's code does:
 
-This analysis follows an 11-step workflow, each focusing on a specific aspect of offensive optimisation:
+This analysis follows a 9-step workflow, each focusing on a specific aspect of offensive optimisation:
 
 <table>
 <tr>
@@ -37,35 +37,31 @@ This analysis follows an 11-step workflow, each focusing on a specific aspect of
 <em>Calculate offense efficiency</em>
 </td>
 <td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-2.png?raw=1" alt="2" style="width: 100%;">
-<em></em>
-</td>
-<td width="33%">
 <img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-3.png?raw=1" alt="3" style="width: 100%;">
 <em>Perimeter shooting analysis</em>
+</td>
+<td width="33%">
+<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-4.png?raw=1" alt="4" style="width: 100%;">
+<em>Calculate effective field goal percentage</em>
 </td>
 </tr>
 
 <tr>
 <td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-4.png?raw=1" alt="4" style="width: 100%;">
-<em>Calculate effective field goal percentage</em>
-</td>
-<td width="33%">
 <img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-5.png?raw=1" alt="5" style="width: 100%;">
-<em>Calculate offensive impact score(pts + plus/minus)</em>
+<em>Calculate offensive impact score (pts + plus/minus)</em>
 </td>
 <td width="33%">
 <img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-6.png?raw=1" alt="6" style="width: 100%;">
 <em>Calculate offense creation score</em>
 </td>
-</tr>
-
-<tr>
 <td width="33%">
 <img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-7.png?raw=1" alt="7" style="width: 100%;">
 <em>Analyse team three point shooting patterns</em>
 </td>
+</tr>
+
+<tr>
 <td width="33%">
 <img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-8.png?raw=1" alt="8" style="width: 100%;">
 <em>Analyse team offensive efficiency</em>
@@ -74,16 +70,9 @@ This analysis follows an 11-step workflow, each focusing on a specific aspect of
 <img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-9.png?raw=1" alt="9" style="width: 100%;">
 <em>Identify the most effiecient scorers in the NBA</em>
 </td>
-</tr>
-
-<tr>
 <td width="33%">
 <img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-10.png?raw=1" alt="10" style="width: 100%;">
-<em>Compare teams offensive and defensive efficiency </em>
-</td>
-<td width="33%">
-<img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-11.png?raw=1" alt="11" style="width: 100%;">
-<em>Analyse team offensive efficiency vs team success</em>
+<em>Compare teams offensive and defensive efficiency</em>
 </td>
 </tr>
 </table>
