@@ -26,9 +26,9 @@ This project is a basketball analytics case study on NBA data analyzing offensiv
 
 ## 📷 Visuals
 
-### What each step's code does:
+### What each metric calculates:
 
-This analysis follows a 9-step workflow, each focusing on a specific aspect of offensive optimisation:
+This analysis illustrates nine offensive efficiency metric calculations:
 
 <table>
 <tr>
@@ -57,7 +57,7 @@ This analysis follows a 9-step workflow, each focusing on a specific aspect of o
 </td>
 <td width="33%">
 <img src="https://github.com/Swishk261/Dave-s-Portfolio/blob/main/assets/of-part-9.png?raw=1" alt="9" style="width: 100%;">
-<em>Identify the most effiecient scorers in the NBA</em>
+<em>Identify the most efficient scorers in the NBA</em>
 </td>
 </tr>
 
