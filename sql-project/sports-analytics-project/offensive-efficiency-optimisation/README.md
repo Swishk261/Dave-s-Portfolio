@@ -1,7 +1,7 @@
 # Offensive Efficiency Optimisation (Sports)
 
 ## 📌 Context
-This project develops models and decision-support tools to improve offensive efficiency—shot quality, possession value, and play selection—using event-level and tracking data. The analysis follows a structured, step-based workflow for transparency and reproducibility.
+This project is a basketball analytics case study on NBA data analyzing offensive efficiency optimization. It develops models and decision-support tools to improve offensive efficiency—shot quality, possession value, and play selection—using event-level and tracking data. The analysis follows a structured, step-based workflow for transparency and reproducibility.
 
 ## 🛠️ Techniques Used
 - Data wrangling: cleaning, filtering, aggregation, joins
