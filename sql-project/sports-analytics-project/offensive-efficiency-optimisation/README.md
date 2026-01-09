@@ -9,15 +9,11 @@ This project is a basketball analytics case study on NBA data analyzing offensiv
 - SQL time and date functions
 
 ## 📊 Process
-1. Data Cleaning  
-   - Standardise play-by-play, tracking, and lineup feeds  
-   - Harmonise timestamps, players, and possessions
-
-2. Filtering  
+1. Filtering  
    - Retain valid possessions and on-court segments  
    - Segment by opponent, lineup, location, and clock context
 
-3. Aggregation  
+2. Aggregation  
    - Compute per-possession features and outcome metrics  
    - Build baselines by lineup, context, and opponent profile
 
