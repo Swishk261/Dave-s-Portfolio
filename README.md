@@ -6,8 +6,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dave-williams-209a23252)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Projects-success)](./)
 
-Welcome! I'm **Dave Williams**, a Data Analyst and Visual Storyteller specializing in:
-- SQL troubleshooting, data cleaning, joins, filtering, and aggregation
+Welcome! I'm **Dave Williams**, a Data Analyst and Visual Storyteller specialising in:
+- SQL, R programming and data cleaning
 - Tableau dashboards and narrative storytelling
 - Clear documentation and annotated case studies
 
@@ -17,7 +17,7 @@ This portfolio showcases how I clean data, build insights, and communicate findi
 
 ## Overview
 
-A glimpse of my work—clean data, uncover insights, and tell compelling visual stories.
+A glimpse of my work clean data, uncover insights, and tell compelling visual stories.
 
 <table>
 <tr>
@@ -92,6 +92,6 @@ A glimpse of my work—clean data, uncover insights, and tell compelling visual 
 
 ## Contact
 
-- Email: dave.williams@example.com  
+- Email: ks24dave@hotmail.com  
 - Open to collaboration on analytics, dashboarding, and data storytelling projects.
 
