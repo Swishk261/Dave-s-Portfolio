@@ -108,9 +108,6 @@ This analysis follows a 13-step workflow, each focusing on a specific aspect of 
 
 ---
 
-## 🎯 Teaching Takeaway
-This case study shows how multi-step analysis using joins, filtering, aggregation, elasticity estimation, and optimisation can reveal actionable revenue strategies across sports business channels.
-
 ---
 
 ## 🔗 Links
