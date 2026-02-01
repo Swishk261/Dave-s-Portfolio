@@ -93,5 +93,5 @@ A glimpse of my work clean data, uncover insights, and tell compelling visual st
 ## Contact
 
 - Email: ks24dave@hotmail.com  
-- Open to collaboration on analytics, dashboarding, and data storytelling projects.
+
 
